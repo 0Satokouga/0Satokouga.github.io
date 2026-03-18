@@ -1,2 +1,4 @@
-# 0Satokouga.github.io
-web for unbound
+<head>
+    <meta http-equiv="refresh" content="0; url=https://www.example.com">
+    <title>Redirecting...</title>
+</head>
